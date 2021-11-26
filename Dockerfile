@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER="captain.ibby" 
+MAINTAINER "captain.ibby" 
 COPY webapp/target/devops.war /usr/local/tomcat/webapps
